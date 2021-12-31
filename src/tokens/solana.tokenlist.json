@@ -65271,14 +65271,14 @@
     {
       "chainId": 101,
       "address": "9XYQ6xZQeqB2LWG4etJVqR41Mt49nphHUc3HJ4p9usN1",
-      "symbol": "ConnorOcoin",
+      "symbol": "CNRO",
       "name": "Connor ONeill",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/stevemvr/crypto/main/logo.png",
       "tags": [
         "social-token"
       ]
-    }
+    },
   ],
   "version": {
     "major": 0,
