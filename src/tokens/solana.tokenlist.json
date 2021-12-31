@@ -65854,7 +65854,18 @@
         "description": "DNSmate token",
         "website": "https://coin.dnsmate.net"
       }
-    }
+    },
+    {
+      "chainId": 101,
+      "address": "9XYQ6xZQeqB2LWG4etJVqR41Mt49nphHUc3HJ4p9usN1",
+      "symbol": "CNRO",
+      "name": "Connor ONeill Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/stevemvr/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
   ],
   "version": {
     "major": 0,
